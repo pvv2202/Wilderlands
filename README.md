@@ -11,7 +11,8 @@ java game
 Our game is similar to Minecraft if you have played that.
 
 To play:
-Move the character with standard: 'w' to go up, 'a' to go left, 's' to go down, 'd' to go right
+
+Move the character with standard: 'w' to go up, 'a' to go left, 's' to go down, 'd' to go right\
 Use 'e' to open the crafting menu
 Use 'q' to attack/break
 Use 'r' to open the inventory
