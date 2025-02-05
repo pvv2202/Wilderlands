@@ -1,5 +1,5 @@
 # Wilderlands
-Wilderness survival game made for introduction to computer science at Amherst college.
+Wilderness survival game made for introduction to computer science at Amherst college. As of recently, there is a buffer when moving around. 
 
 To run, clone this repository and navigate to Wilderlands/src in the terminal and run:
 
