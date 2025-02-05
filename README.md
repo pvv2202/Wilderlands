@@ -22,7 +22,7 @@ Eat food by clicking on the mouse while having food in your hotbar\
 Place walls by navigating to them in the hotbar and clicking on the screen. Use the arrow keys to change orientation.\
 Press 'esc' to go in and out of the menu. Use 's' to save while in the menu and 'l' to load.\
 Craft items by clicking on the item in the crafting menu. Crafting recipes are as follows:
-----------------------------------------------------------------------------------------------------------------------
+```
 Stone Sword: 1 wood, 2 stone
 Gold Sword: 1 wood, 2 gold
 Iron Sword: 1 wood, 2 iron
@@ -47,6 +47,7 @@ Cake: 2 eggs, 2 milk
 Lion Armor: 2 lion hide, 2 wool
 Ruby Sword: 2 ruby, 2 bone, 1 emerald, 2 gold
 Polar Bear Hat: 2 polar bear hide, 1 bone, 1 wool
+```
 
 Other notes:
 Axes help you break trees, pickaxes help you break rocks, swords help you kill animals/enemies.
