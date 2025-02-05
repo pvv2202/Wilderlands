@@ -13,15 +13,15 @@ Our game is similar to Minecraft if you have played that.
 To play:
 
 Move the character with standard: 'w' to go up, 'a' to go left, 's' to go down, 'd' to go right\
-Use 'e' to open the crafting menu
-Use 'q' to attack/break
-Use 'r' to open the inventory
-Use 1,2,3,4,5,6 to navigate the hotbar
-Move items around the inventory by clicking and placing. The bar to the left of the inventory is for armor.
-Eat food by clicking on the mouse while having food in your hotbar
-Place walls by navigating to them in the hotbar and clicking on the screen. Use the arrow keys to change orientation.
-Press 'esc' to go in and out of the menu. Use 's' to save while in the menu and 'l' to load.
-Craft items by clicking on the item in the crafting menu. Crafting recipes are as follows:
+Use 'e' to open the crafting menu\
+Use 'q' to attack/break\
+Use 'r' to open the inventory\
+Use 1,2,3,4,5,6 to navigate the hotbar\
+Move items around the inventory by clicking and placing. The bar to the left of the inventory is for armor.\
+Eat food by clicking on the mouse while having food in your hotbar\
+Place walls by navigating to them in the hotbar and clicking on the screen. Use the arrow keys to change orientation.\
+Press 'esc' to go in and out of the menu. Use 's' to save while in the menu and 'l' to load.\
+Craft items by clicking on the item in the crafting menu. Crafting recipes are as follows:\
 ----------------------------------------------------------------------------------------------------------------------
 Stone Sword: 1 wood, 2 stone
 Gold Sword: 1 wood, 2 gold
