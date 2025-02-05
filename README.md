@@ -21,7 +21,7 @@ Move items around the inventory by clicking and placing. The bar to the left of 
 Eat food by clicking on the mouse while having food in your hotbar\
 Place walls by navigating to them in the hotbar and clicking on the screen. Use the arrow keys to change orientation.\
 Press 'esc' to go in and out of the menu. Use 's' to save while in the menu and 'l' to load.\
-Craft items by clicking on the item in the crafting menu. Crafting recipes are as follows:\
+Craft items by clicking on the item in the crafting menu. Crafting recipes are as follows:
 ----------------------------------------------------------------------------------------------------------------------
 Stone Sword: 1 wood, 2 stone
 Gold Sword: 1 wood, 2 gold
